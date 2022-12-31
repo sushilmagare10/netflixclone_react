@@ -1,4 +1,4 @@
-As a developer working on a React JS Netflix clone, your main goal would be to create a web application that closely mimics the user interface and functionality of the Netflix streaming service. I have achieved this using combination of dependencies.
+As a developer working on a React JS Netflix clone, my main goal was to create a web application that closely mimics the user interface and functionality of the Netflix streaming service. I have achieved this using combination of dependencies.
 The TMDB AAPI is used to get data using Axios.
 Dependencies used to create the Netflix Clone.
 Tailwind CSS (for styling).
